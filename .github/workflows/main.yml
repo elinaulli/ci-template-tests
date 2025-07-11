@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run a scripts
-      - echo "Hello, GitHub Actions!"
+      - echo: "Hello, GitHub Actions!"
